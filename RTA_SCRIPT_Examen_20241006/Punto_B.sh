@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DISCO="/dev/sda" # Disco de 10GB (sda)
+DISCO="/dev/sdc" # Disco de 10GB (sdc)
 TAM_PRIMARIA="1G" # Tamaño de cada partición primaria
 TAM_LOGICA="1G"   # Tamaño de cada partición lógica
 
